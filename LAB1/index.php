@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-<form action="script.php" method="post">
+<form action="code.php" method="post">
 <p>Виберіть дату: <br> <input type="date" name="calendar"><br>
     <input type="text" id ="note" name="note"><br>
     <input type="submit">
